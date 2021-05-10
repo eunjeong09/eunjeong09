@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **eunjeong09/eunjeong09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20Github&fontSize=70&animation=scaleIn)
+
+## Welcome👋
+
+## Technology Stack📚
+
+## I'm currently running...
+![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong09&show_icons=true)
+
+
+
+
+
+
