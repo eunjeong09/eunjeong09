@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## Welcome👋
 
 ## Technology Stack📚
+<g xmlns="http://www.w3.org/2000/svg" clip-path="url(#r)"><rect width="0" height="20" fill="#dfb317"/><rect x="0" width="67" height="20" fill="#dfb317"/><rect width="67" height="20" fill="url(#s)"/></g>
 
 ## I'm currently running...
 ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong09&show_icons=true)
-
 
 
 
