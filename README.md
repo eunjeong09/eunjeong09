@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20Github&fontSize=70&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=shark&color=auto&height=250&section=header&text=Eunjeong's%20GitHub&fontSize=70&animation=scaleIn)
 
 
 ### Welcome👋
@@ -29,17 +29,24 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+    <br />
+   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>
   </div>
     
 ### ...
-   
+
+### Platform🤹   
 <div align='center'>
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=Chart.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactRouter-CA4245?style=flat-square&logo=ReactRouter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20teams-6264A7?style=flat-square&logo=Microsoft%20teams&logoColor=white"/>
+  
   </div>
 <p></p>
+
+
     
-### I'm currently running...🤓
+### My stats 🤓
   
 ![Eunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjeong09&show_icons=true)
 
